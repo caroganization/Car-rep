@@ -4,6 +4,10 @@
   <artifactId>a1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>a1</name>
+      <properties>
+  <sonar.organization>caroganization</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
   
    
   <dependencies>
