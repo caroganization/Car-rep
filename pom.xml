@@ -11,7 +11,7 @@
     <maven.compiler.target>7</maven.compiler.target>
 </properties>
 
-
+<build>
 <plugins> 
 
 	  <plugin> 
@@ -33,7 +33,7 @@
 			</execution>
 	</executions>
 </plugin>
-  
+</build>
   <dependencies>
   
   <dependency> 
